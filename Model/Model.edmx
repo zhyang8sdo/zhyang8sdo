@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="CashManagerModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="CashCount">
+          <Key>
+            <PropertyRef Name="countID" />
+          </Key>
+          <Property Name="FK_workerID" Type="int" Nullable="false" />
+          <Property Name="FK_machineID" Type="int" Nullable="false" />
+          <Property Name="FK_roundID" Type="int" Nullable="false" />
+          <Property Name="countID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="countResult" Type="int" Nullable="false" />
+          <Property Name="countDoubleResult" Type="int" Nullable="false" />
+          <Property Name="resultJudge" Type="bit" Nullable="false" />
+          <Property Name="operatTime" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="CashImage">
+          <Key>
+            <PropertyRef Name="ImageID" />
+          </Key>
+          <Property Name="ImageID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="FK_CountID" Type="int" />
+          <Property Name="imagePath" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Machine">
+          <Key>
+            <PropertyRef Name="machineID" />
+          </Key>
+          <Property Name="machineIP" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="machineCountNumber" Type="int" Nullable="false" />
+          <Property Name="machineID" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Round">
+          <Key>
+            <PropertyRef Name="countRoundID" />
+          </Key>
+          <Property Name="countRoundID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="finalResult" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Worker">
+          <Key>
+            <PropertyRef Name="workerID" />
+          </Key>
+          <Property Name="workerName" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="workerNumber" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="workerID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="workerRegisterTime" Type="datetime" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_CashCount_Machine">
+          <End Role="Machine" Type="Self.Machine" Multiplicity="1" />
+          <End Role="CashCount" Type="Self.CashCount" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Machine">
+              <PropertyRef Name="machineID" />
+            </Principal>
+            <Dependent Role="CashCount">
+              <PropertyRef Name="FK_machineID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_CashCount_Round">
+          <End Role="Round" Type="Self.Round" Multiplicity="1" />
+          <End Role="CashCount" Type="Self.CashCount" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Round">
+              <PropertyRef Name="countRoundID" />
+            </Principal>
+            <Dependent Role="CashCount">
+              <PropertyRef Name="FK_roundID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_CashCount_Worker">
+          <End Role="Worker" Type="Self.Worker" Multiplicity="1" />
+          <End Role="CashCount" Type="Self.CashCount" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Worker">
+              <PropertyRef Name="workerID" />
+            </Principal>
+            <Dependent Role="CashCount">
+              <PropertyRef Name="FK_workerID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_CashImage_CashCount">
+          <End Role="CashCount" Type="Self.CashCount" Multiplicity="0..1" />
+          <End Role="CashImage" Type="Self.CashImage" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CashCount">
+              <PropertyRef Name="countID" />
+            </Principal>
+            <Dependent Role="CashImage">
+              <PropertyRef Name="FK_CountID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="CashManagerModelStoreContainer">
+          <EntitySet Name="CashCount" EntityType="Self.CashCount" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="CashImage" EntityType="Self.CashImage" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Machine" EntityType="Self.Machine" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Round" EntityType="Self.Round" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Worker" EntityType="Self.Worker" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_CashCount_Machine" Association="Self.FK_CashCount_Machine">
+            <End Role="Machine" EntitySet="Machine" />
+            <End Role="CashCount" EntitySet="CashCount" />
+          </AssociationSet>
+          <AssociationSet Name="FK_CashCount_Round" Association="Self.FK_CashCount_Round">
+            <End Role="Round" EntitySet="Round" />
+            <End Role="CashCount" EntitySet="CashCount" />
+          </AssociationSet>
+          <AssociationSet Name="FK_CashCount_Worker" Association="Self.FK_CashCount_Worker">
+            <End Role="Worker" EntitySet="Worker" />
+            <End Role="CashCount" EntitySet="CashCount" />
+          </AssociationSet>
+          <AssociationSet Name="FK_CashImage_CashCount" Association="Self.FK_CashImage_CashCount">
+            <End Role="CashCount" EntitySet="CashCount" />
+            <End Role="CashImage" EntitySet="CashImage" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="CashManagerModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="CashCount">
+          <Key>
+            <PropertyRef Name="countID" />
+          </Key>
+          <Property Name="FK_workerID" Type="Int32" Nullable="false" />
+          <Property Name="FK_machineID" Type="Int32" Nullable="false" />
+          <Property Name="FK_roundID" Type="Int32" Nullable="false" />
+          <Property Name="countID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="countResult" Type="Int32" Nullable="false" />
+          <Property Name="countDoubleResult" Type="Int32" Nullable="false" />
+          <Property Name="resultJudge" Type="Boolean" Nullable="false" />
+          <Property Name="operatTime" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="Machine" Relationship="Self.FK_CashCount_Machine" FromRole="CashCount" ToRole="Machine" />
+          <NavigationProperty Name="Round" Relationship="Self.FK_CashCount_Round" FromRole="CashCount" ToRole="Round" />
+          <NavigationProperty Name="Worker" Relationship="Self.FK_CashCount_Worker" FromRole="CashCount" ToRole="Worker" />
+          <NavigationProperty Name="CashImage" Relationship="CashManagerModel.FK_CashImage_Round1" FromRole="CashCount" ToRole="CashImage" />
+        </EntityType>
+        <EntityType Name="Machine">
+          <Key>
+            <PropertyRef Name="machineID" />
+          </Key>
+          <Property Name="machineIP" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="machineCountNumber" Type="Int32" Nullable="false" />
+          <Property Name="machineID" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="CashCount" Relationship="Self.FK_CashCount_Machine" FromRole="Machine" ToRole="CashCount" />
+        </EntityType>
+        <EntityType Name="Round">
+          <Key>
+            <PropertyRef Name="countRoundID" />
+          </Key>
+          <Property Name="countRoundID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="finalResult" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="CashCount" Relationship="Self.FK_CashCount_Round" FromRole="Round" ToRole="CashCount" />
+        </EntityType>
+        <EntityType Name="Worker">
+          <Key>
+            <PropertyRef Name="workerID" />
+          </Key>
+          <Property Name="workerName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="workerNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="workerID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="workerRegisterTime" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="CashCount" Relationship="Self.FK_CashCount_Worker" FromRole="Worker" ToRole="CashCount" />
+        </EntityType>
+        <Association Name="FK_CashCount_Machine">
+          <End Role="Machine" Type="Self.Machine" Multiplicity="1" />
+          <End Role="CashCount" Type="Self.CashCount" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Machine">
+              <PropertyRef Name="machineID" />
+            </Principal>
+            <Dependent Role="CashCount">
+              <PropertyRef Name="FK_machineID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_CashCount_Round">
+          <End Role="Round" Type="Self.Round" Multiplicity="1" />
+          <End Role="CashCount" Type="Self.CashCount" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Round">
+              <PropertyRef Name="countRoundID" />
+            </Principal>
+            <Dependent Role="CashCount">
+              <PropertyRef Name="FK_roundID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_CashCount_Worker">
+          <End Role="Worker" Type="Self.Worker" Multiplicity="1" />
+          <End Role="CashCount" Type="Self.CashCount" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Worker">
+              <PropertyRef Name="workerID" />
+            </Principal>
+            <Dependent Role="CashCount">
+              <PropertyRef Name="FK_workerID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="CashManagerEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="CashCount" EntityType="Self.CashCount" />
+          <EntitySet Name="Machine" EntityType="Self.Machine" />
+          <EntitySet Name="Round" EntityType="Self.Round" />
+          <EntitySet Name="Worker" EntityType="Self.Worker" />
+          <AssociationSet Name="FK_CashCount_Machine" Association="Self.FK_CashCount_Machine">
+            <End Role="Machine" EntitySet="Machine" />
+            <End Role="CashCount" EntitySet="CashCount" />
+          </AssociationSet>
+          <AssociationSet Name="FK_CashCount_Round" Association="Self.FK_CashCount_Round">
+            <End Role="Round" EntitySet="Round" />
+            <End Role="CashCount" EntitySet="CashCount" />
+          </AssociationSet>
+          <AssociationSet Name="FK_CashCount_Worker" Association="Self.FK_CashCount_Worker">
+            <End Role="Worker" EntitySet="Worker" />
+            <End Role="CashCount" EntitySet="CashCount" />
+          </AssociationSet>
+          <EntitySet Name="CashImage" EntityType="CashManagerModel.CashImage" />
+          <AssociationSet Name="FK_CashImage_Round1" Association="CashManagerModel.FK_CashImage_Round1">
+            <End Role="CashCount" EntitySet="CashCount" />
+            <End Role="CashImage" EntitySet="CashImage" />
+          </AssociationSet>
+          </EntityContainer>
+        <EntityType Name="CashImage">
+          <Key>
+            <PropertyRef Name="ImageID" />
+          </Key>
+          <Property Name="ImageID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="FK_CountID" Type="Int32" />
+          <Property Name="imagePath" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="CashCount" Relationship="CashManagerModel.FK_CashImage_Round1" FromRole="CashImage" ToRole="CashCount" />
+        </EntityType>
+        <Association Name="FK_CashImage_Round1">
+          <End Type="CashManagerModel.CashCount" Role="CashCount" Multiplicity="0..1" />
+          <End Type="CashManagerModel.CashImage" Role="CashImage" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CashCount">
+              <PropertyRef Name="countID" />
+            </Principal>
+            <Dependent Role="CashImage">
+              <PropertyRef Name="FK_CountID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="CashManagerModelStoreContainer" CdmEntityContainer="CashManagerEntities">
+          <EntitySetMapping Name="CashCount">
+            <EntityTypeMapping TypeName="CashManagerModel.CashCount">
+              <MappingFragment StoreEntitySet="CashCount">
+                <ScalarProperty Name="FK_workerID" ColumnName="FK_workerID" />
+                <ScalarProperty Name="FK_machineID" ColumnName="FK_machineID" />
+                <ScalarProperty Name="FK_roundID" ColumnName="FK_roundID" />
+                <ScalarProperty Name="countID" ColumnName="countID" />
+                <ScalarProperty Name="countResult" ColumnName="countResult" />
+                <ScalarProperty Name="countDoubleResult" ColumnName="countDoubleResult" />
+                <ScalarProperty Name="resultJudge" ColumnName="resultJudge" />
+                <ScalarProperty Name="operatTime" ColumnName="operatTime" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Machine">
+            <EntityTypeMapping TypeName="CashManagerModel.Machine">
+              <MappingFragment StoreEntitySet="Machine">
+                <ScalarProperty Name="machineIP" ColumnName="machineIP" />
+                <ScalarProperty Name="machineCountNumber" ColumnName="machineCountNumber" />
+                <ScalarProperty Name="machineID" ColumnName="machineID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Round">
+            <EntityTypeMapping TypeName="CashManagerModel.Round">
+              <MappingFragment StoreEntitySet="Round">
+                <ScalarProperty Name="countRoundID" ColumnName="countRoundID" />
+                <ScalarProperty Name="finalResult" ColumnName="finalResult" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Worker">
+            <EntityTypeMapping TypeName="CashManagerModel.Worker">
+              <MappingFragment StoreEntitySet="Worker">
+                <ScalarProperty Name="workerName" ColumnName="workerName" />
+                <ScalarProperty Name="workerNumber" ColumnName="workerNumber" />
+                <ScalarProperty Name="workerID" ColumnName="workerID" />
+                <ScalarProperty Name="workerRegisterTime" ColumnName="workerRegisterTime" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="CashImage">
+            <EntityTypeMapping TypeName="CashManagerModel.CashImage">
+              <MappingFragment StoreEntitySet="CashImage">
+                <ScalarProperty Name="imagePath" ColumnName="imagePath" />
+                <ScalarProperty Name="FK_CountID" ColumnName="FK_CountID" />
+                <ScalarProperty Name="ImageID" ColumnName="ImageID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="无" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

@@ -1,0 +1,26 @@
+C:\Users\Administrator\Desktop\C# demo\Modle\bin\Debug\Modle.dll.config
+C:\Users\Administrator\Desktop\C# demo\Modle\bin\Debug\Modle.dll
+C:\Users\Administrator\Desktop\C# demo\Modle\bin\Debug\Modle.pdb
+C:\Users\Administrator\Desktop\C# demo\Modle\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\C# demo\Modle\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\C# demo\Modle\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\C# demo\Modle\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\C# demo\Modle\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\C# demo\Modle\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\Administrator\Desktop\C# demo\Modle\obj\Debug\Modle.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C# demo\Modle\obj\Debug\Modle.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C# demo\Modle\obj\Debug\Modle.csproj.CopyComplete
+C:\Users\Administrator\Desktop\C# demo\Modle\obj\Debug\Modle.dll
+C:\Users\Administrator\Desktop\C# demo\Modle\obj\Debug\Modle.pdb
+C:\Users\Administrator\Desktop\新建文件夹\Modle\bin\Debug\Modle.dll.config
+C:\Users\Administrator\Desktop\新建文件夹\Modle\bin\Debug\Modle.dll
+C:\Users\Administrator\Desktop\新建文件夹\Modle\bin\Debug\Modle.pdb
+C:\Users\Administrator\Desktop\新建文件夹\Modle\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\新建文件夹\Modle\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\新建文件夹\Modle\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\新建文件夹\Modle\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\Administrator\Desktop\新建文件夹\Modle\obj\Debug\Modle.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\Modle\obj\Debug\Modle.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\新建文件夹\Modle\obj\Debug\Modle.csproj.CopyComplete
+C:\Users\Administrator\Desktop\新建文件夹\Modle\obj\Debug\Modle.dll
+C:\Users\Administrator\Desktop\新建文件夹\Modle\obj\Debug\Modle.pdb

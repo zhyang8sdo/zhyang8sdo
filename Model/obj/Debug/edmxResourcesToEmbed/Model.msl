@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CashManagerModelStoreContainer" CdmEntityContainer="CashManagerEntities">
+    <EntitySetMapping Name="CashCount">
+      <EntityTypeMapping TypeName="CashManagerModel.CashCount">
+        <MappingFragment StoreEntitySet="CashCount">
+          <ScalarProperty Name="FK_workerID" ColumnName="FK_workerID" />
+          <ScalarProperty Name="FK_machineID" ColumnName="FK_machineID" />
+          <ScalarProperty Name="FK_roundID" ColumnName="FK_roundID" />
+          <ScalarProperty Name="countID" ColumnName="countID" />
+          <ScalarProperty Name="countResult" ColumnName="countResult" />
+          <ScalarProperty Name="countDoubleResult" ColumnName="countDoubleResult" />
+          <ScalarProperty Name="resultJudge" ColumnName="resultJudge" />
+          <ScalarProperty Name="operatTime" ColumnName="operatTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Machine">
+      <EntityTypeMapping TypeName="CashManagerModel.Machine">
+        <MappingFragment StoreEntitySet="Machine">
+          <ScalarProperty Name="machineIP" ColumnName="machineIP" />
+          <ScalarProperty Name="machineCountNumber" ColumnName="machineCountNumber" />
+          <ScalarProperty Name="machineID" ColumnName="machineID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Round">
+      <EntityTypeMapping TypeName="CashManagerModel.Round">
+        <MappingFragment StoreEntitySet="Round">
+          <ScalarProperty Name="countRoundID" ColumnName="countRoundID" />
+          <ScalarProperty Name="finalResult" ColumnName="finalResult" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Worker">
+      <EntityTypeMapping TypeName="CashManagerModel.Worker">
+        <MappingFragment StoreEntitySet="Worker">
+          <ScalarProperty Name="workerName" ColumnName="workerName" />
+          <ScalarProperty Name="workerNumber" ColumnName="workerNumber" />
+          <ScalarProperty Name="workerID" ColumnName="workerID" />
+          <ScalarProperty Name="workerRegisterTime" ColumnName="workerRegisterTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CashImage">
+      <EntityTypeMapping TypeName="CashManagerModel.CashImage">
+        <MappingFragment StoreEntitySet="CashImage">
+          <ScalarProperty Name="imagePath" ColumnName="imagePath" />
+          <ScalarProperty Name="FK_CountID" ColumnName="FK_CountID" />
+          <ScalarProperty Name="ImageID" ColumnName="ImageID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

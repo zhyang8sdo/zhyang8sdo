@@ -1,0 +1,287 @@
+C:\Users\Administrator\Desktop\C# demo\CashCountSystem\bin\Debug\CashCountSystem.exe.config
+C:\Users\Administrator\Desktop\C# demo\CashCountSystem\bin\Debug\CashCountSystem.exe
+C:\Users\Administrator\Desktop\C# demo\CashCountSystem\bin\Debug\CashCountSystem.pdb
+C:\Users\Administrator\Desktop\C# demo\CashCountSystem\obj\Debug\CashCountSystem.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C# demo\CashCountSystem\obj\Debug\CashCountSystem.Form1.resources
+C:\Users\Administrator\Desktop\C# demo\CashCountSystem\obj\Debug\CashCountSystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C# demo\CashCountSystem\obj\Debug\CashCountSystem.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C# demo\CashCountSystem\obj\Debug\CashCountSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C# demo\CashCountSystem\obj\Debug\CashCountSystem.exe
+C:\Users\Administrator\Desktop\C# demo\CashCountSystem\obj\Debug\CashCountSystem.pdb
+C:\Users\Administrator\Desktop\C# demo\CashCountSystem\obj\Debug\CashCountSystem.Form2.resources
+C:\Users\Administrator\Desktop\C# demo\CashCountSystem\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\C# demo\CashCountSystem\bin\Debug\Modle.dll
+C:\Users\Administrator\Desktop\C# demo\CashCountSystem\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\C# demo\CashCountSystem\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\C# demo\CashCountSystem\bin\Debug\BLL.dll.config
+C:\Users\Administrator\Desktop\C# demo\CashCountSystem\bin\Debug\Modle.pdb
+C:\Users\Administrator\Desktop\C# demo\CashCountSystem\bin\Debug\Modle.dll.config
+C:\Users\Administrator\Desktop\C# demo\CashCountSystem\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\C# demo\CashCountSystem\obj\Debug\CashCountSystem.csproj.CopyComplete
+C:\Users\Administrator\Desktop\C# demo\CashCountSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\C# demo\CashCountSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\C# demo\CashCountSystemNew\bin\Debug\CashCountSystem.exe.config
+C:\Users\Administrator\Desktop\C# demo\CashCountSystemNew\bin\Debug\CashCountSystem.exe
+C:\Users\Administrator\Desktop\C# demo\CashCountSystemNew\bin\Debug\CashCountSystem.pdb
+C:\Users\Administrator\Desktop\C# demo\CashCountSystemNew\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\C# demo\CashCountSystemNew\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\C# demo\CashCountSystemNew\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\C# demo\CashCountSystemNew\bin\Debug\Modle.dll
+C:\Users\Administrator\Desktop\C# demo\CashCountSystemNew\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\C# demo\CashCountSystemNew\bin\Debug\BLL.dll.config
+C:\Users\Administrator\Desktop\C# demo\CashCountSystemNew\bin\Debug\Modle.pdb
+C:\Users\Administrator\Desktop\C# demo\CashCountSystemNew\bin\Debug\Modle.dll.config
+C:\Users\Administrator\Desktop\C# demo\CashCountSystemNew\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\C# demo\CashCountSystemNew\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\C# demo\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C# demo\CashCountSystemNew\obj\Debug\CashCountSystem.Form1.resources
+C:\Users\Administrator\Desktop\C# demo\CashCountSystemNew\obj\Debug\CashCountSystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C# demo\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C# demo\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C# demo\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.CopyComplete
+C:\Users\Administrator\Desktop\C# demo\CashCountSystemNew\obj\Debug\CashCountSystem.exe
+C:\Users\Administrator\Desktop\C# demo\CashCountSystemNew\obj\Debug\CashCountSystem.pdb
+C:\Users\Administrator\Desktop\C# demo\CashCountSystemNew\obj\Debug\CashCountSystem.FormLogin.resources
+C:\Users\Administrator\Desktop\新建文件夹\CashCountSystemNew\bin\Debug\CashCountSystem.exe.config
+C:\Users\Administrator\Desktop\新建文件夹\CashCountSystemNew\bin\Debug\CashCountSystem.exe
+C:\Users\Administrator\Desktop\新建文件夹\CashCountSystemNew\bin\Debug\CashCountSystem.pdb
+C:\Users\Administrator\Desktop\新建文件夹\CashCountSystemNew\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\新建文件夹\CashCountSystemNew\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\新建文件夹\CashCountSystemNew\bin\Debug\Modle.dll
+C:\Users\Administrator\Desktop\新建文件夹\CashCountSystemNew\bin\Debug\Modle.pdb
+C:\Users\Administrator\Desktop\新建文件夹\CashCountSystemNew\bin\Debug\Modle.dll.config
+C:\Users\Administrator\Desktop\新建文件夹\CashCountSystemNew\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\新建文件夹\CashCountSystemNew\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\新建文件夹\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\CashCountSystemNew\obj\Debug\CashCountSystem.Form1.resources
+C:\Users\Administrator\Desktop\新建文件夹\CashCountSystemNew\obj\Debug\CashCountSystem.FormLogin.resources
+C:\Users\Administrator\Desktop\新建文件夹\CashCountSystemNew\obj\Debug\CashCountSystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\新建文件夹\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\新建文件夹\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.CopyComplete
+C:\Users\Administrator\Desktop\新建文件夹\CashCountSystemNew\obj\Debug\CashCountSystem.exe
+C:\Users\Administrator\Desktop\新建文件夹\CashCountSystemNew\obj\Debug\CashCountSystem.pdb
+C:\Users\Administrator\Desktop\新建文件夹\CashCountSystemNew\bin\Debug\BLLnew.dll
+C:\Users\Administrator\Desktop\新建文件夹\CashCountSystemNew\bin\Debug\BLLnew.pdb
+C:\Users\Administrator\Desktop\新建文件夹\CashCountSystemNew\bin\Debug\BLLnew.dll.config
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\CashCountSystem.exe.config
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\CashCountSystem.exe
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\CashCountSystem.pdb
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\BLLnew.dll
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\Modle.dll
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\BLLnew.pdb
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\BLLnew.dll.config
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\Modle.pdb
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\Modle.dll.config
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\obj\Debug\CashCountSystem.Form1.resources
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\obj\Debug\CashCountSystem.FormLogin.resources
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\obj\Debug\CashCountSystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.CopyComplete
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\obj\Debug\CashCountSystem.exe
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\obj\Debug\CashCountSystem.pdb
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\AForge.dll
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\AForge.Video.dll
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\AForge.xml
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\AForge.Video.xml
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\AForge.Controls.dll
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\AForge.Imaging.dll
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\AForge.Math.dll
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\AForge.Controls.xml
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\AForge.Imaging.xml
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\AForge.Math.xml
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\CashManager\CashCountSystemNew\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\CashCountSystem.exe.config
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\CashCountSystem.exe
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\CashCountSystem.pdb
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\AForge.Controls.dll
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\AForge.dll
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\AForge.Imaging.dll
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\AForge.Math.dll
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\AForge.Video.dll
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\BLLnew.dll
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\Modle.dll
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\BLLnew.pdb
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\BLLnew.dll.config
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\Modle.pdb
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\Modle.dll.config
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\AForge.xml
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\AForge.Controls.xml
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\AForge.Imaging.xml
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\AForge.Math.xml
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\AForge.Video.xml
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\obj\Debug\CashCountSystem.Form1.resources
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\obj\Debug\CashCountSystem.FormLogin.resources
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\obj\Debug\CashCountSystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.CopyComplete
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\obj\Debug\CashCountSystem.exe
+C:\Users\Administrator\Desktop\CashManager20240115\CashManager20240115\CashCountSystemNew\obj\Debug\CashCountSystem.pdb
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\CashCountSystem.exe.config
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\CashCountSystem.exe
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\CashCountSystem.pdb
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\AForge.Controls.dll
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\AForge.dll
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\AForge.Imaging.dll
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\AForge.Math.dll
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\AForge.Video.dll
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\BLLnew.dll
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\Modle.dll
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\BLLnew.pdb
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\BLLnew.dll.config
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\Modle.pdb
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\Modle.dll.config
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\AForge.xml
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\AForge.Controls.xml
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\AForge.Imaging.xml
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\AForge.Math.xml
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\AForge.Video.xml
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\obj\Debug\CashCountSystem.Form1.resources
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\obj\Debug\CashCountSystem.FormLogin.resources
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\obj\Debug\CashCountSystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.CopyComplete
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\obj\Debug\CashCountSystem.exe
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\obj\Debug\CashCountSystem.pdb
+C:\Users\Administrator\Desktop\CashManagerNEW\CashCountSystemNew\obj\Debug\CashCountSystem.FormWait.resources
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\CashCountSystem.exe.config
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\CashCountSystem.exe
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\CashCountSystem.pdb
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\AForge.Controls.dll
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\AForge.dll
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\AForge.Imaging.dll
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\AForge.Math.dll
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\AForge.Video.dll
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\BLLnew.dll
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\Modle.dll
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\BLLnew.pdb
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\BLLnew.dll.config
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\Modle.pdb
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\Modle.dll.config
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\AForge.xml
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\AForge.Controls.xml
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\AForge.Imaging.xml
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\AForge.Math.xml
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\AForge.Video.xml
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\obj\Debug\CashCountSystem.Form1.resources
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\obj\Debug\CashCountSystem.FormLogin.resources
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\obj\Debug\CashCountSystem.FormWait.resources
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\obj\Debug\CashCountSystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.CopyComplete
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\obj\Debug\CashCountSystem.exe
+C:\Users\Administrator\Desktop\CashManagerNEWZZK\CashCountSystemNew\obj\Debug\CashCountSystem.pdb
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\CashCountSystem.exe.config
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\CashCountSystem.exe
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\CashCountSystem.pdb
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\AForge.Controls.dll
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\AForge.dll
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\AForge.Imaging.dll
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\AForge.Math.dll
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\AForge.Video.dll
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\BLLnew.dll
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\Modle.dll
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\BLLnew.pdb
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\BLLnew.dll.config
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\Modle.pdb
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\Modle.dll.config
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\AForge.xml
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\AForge.Controls.xml
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\AForge.Imaging.xml
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\AForge.Math.xml
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\AForge.Video.xml
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\obj\Debug\CashCountSystem.Form1.resources
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\obj\Debug\CashCountSystem.FormLogin.resources
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\obj\Debug\CashCountSystem.FormWait.resources
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\obj\Debug\CashCountSystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.CopyComplete
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\obj\Debug\CashCountSystem.exe
+C:\Users\Administrator\Desktop\CashManagerNEW20240117 1754\CashCountSystemNew\obj\Debug\CashCountSystem.pdb
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\CashCountSystem.exe.config
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\CashCountSystem.exe
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\CashCountSystem.pdb
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\AForge.Controls.dll
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\AForge.dll
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\AForge.Imaging.dll
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\AForge.Math.dll
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\AForge.Video.DirectShow.dll
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\AForge.Video.dll
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\BLLnew.dll
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\EntityFramework.dll
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\Modle.dll
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\Newtonsoft.Json.dll
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\BLLnew.pdb
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\BLLnew.dll.config
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\Modle.pdb
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\Modle.dll.config
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\AForge.xml
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\AForge.Controls.xml
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\AForge.Imaging.xml
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\AForge.Math.xml
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\AForge.Video.xml
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\AForge.Video.DirectShow.xml
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\EntityFramework.xml
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\bin\Debug\Newtonsoft.Json.xml
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.AssemblyReference.cache
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.SuggestedBindingRedirects.cache
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\obj\Debug\CashCountSystem.Form1.resources
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\obj\Debug\CashCountSystem.FormLogin.resources
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\obj\Debug\CashCountSystem.FormWait.resources
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\obj\Debug\CashCountSystem.Properties.Resources.resources
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.GenerateResource.cache
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.CoreCompileInputs.cache
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\obj\Debug\CashCountSystem.csproj.CopyComplete
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\obj\Debug\CashCountSystem.exe
+E:\C#\Task\验钞\CashManagerNEW20240118\CashCountSystemNew\obj\Debug\CashCountSystem.pdb

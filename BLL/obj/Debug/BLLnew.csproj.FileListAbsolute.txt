@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\新建文件夹\BLLnew\bin\Debug\BLLnew.dll.config
+C:\Users\Administrator\Desktop\新建文件夹\BLLnew\bin\Debug\BLLnew.dll
+C:\Users\Administrator\Desktop\新建文件夹\BLLnew\bin\Debug\BLLnew.pdb
+C:\Users\Administrator\Desktop\新建文件夹\BLLnew\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\新建文件夹\BLLnew\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\新建文件夹\BLLnew\bin\Debug\Modle.dll
+C:\Users\Administrator\Desktop\新建文件夹\BLLnew\bin\Debug\Modle.pdb
+C:\Users\Administrator\Desktop\新建文件夹\BLLnew\bin\Debug\Modle.dll.config
+C:\Users\Administrator\Desktop\新建文件夹\BLLnew\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\新建文件夹\BLLnew\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\新建文件夹\BLLnew\obj\Debug\BLLnew.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\BLLnew\obj\Debug\BLLnew.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\新建文件夹\BLLnew\obj\Debug\BLLnew.csproj.CopyComplete
+C:\Users\Administrator\Desktop\新建文件夹\BLLnew\obj\Debug\BLLnew.dll
+C:\Users\Administrator\Desktop\新建文件夹\BLLnew\obj\Debug\BLLnew.pdb
